@@ -1,0 +1,1 @@
+<p class="copyright">&copy; <?php echo date("Y") ?> Glenn Flood</p>
